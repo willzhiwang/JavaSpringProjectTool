@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaSpringProjectTool.iml" filepath="$PROJECT_DIR$/.idea/JavaSpringProjectTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PMTool/ppmtool.iml" filepath="$PROJECT_DIR$/PMTool/ppmtool.iml" />
     </modules>
   </component>
 </project>
